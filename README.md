@@ -15,6 +15,8 @@
 工具:Jupyter Notebook,Mysql Workbench,Google Analytics report api</br>
 呈現方式:Excel </p>
 
-
+<h3>參與專案單位:</h3>
+<p>行銷部及營運部</p>
+ 
 
 
