@@ -13,7 +13,7 @@
 語言:Python,Mysql
 套件:Pandas,GA-Pandas
 工具:Jupyter Notebook,Mysql Workbench,Google Analytics report api
-呈現方式:Excel
+呈現方式:Excel 
 
 
 
